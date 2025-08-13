@@ -10,7 +10,7 @@ Supports single folder path to find executable that match the requirements to by
 
 ## Parameters
 
-**FolderPath (optional):** Path to a folder to search for relevant executables .
+**FolderPath (optional):** Path to a folder to search for relevant executables.
 
 ## Example Usage
 ### Using a folder path to find executables to bypass UAC.
